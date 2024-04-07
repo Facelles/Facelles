@@ -1,7 +1,6 @@
 <h1 align="center">My pseudonym Facelles</h1>
 <h3 align="center">I want to become a programming monster, the monster inside me is so big</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftyping-cat&psig=AOvVaw1qAf0cVCybNjBgIz8Kh4g_&ust=1712607181590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCm4Yn1sIUDFQAAAAAdAAAAABAJ")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
