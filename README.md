@@ -1,6 +1,5 @@
 <h1 align="center">My pseudonym Facelles</h1>
 <h3 align="center">I want to become a programming monster, the monster inside me is so big</h3>
-(img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" /> </p>
 
