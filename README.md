@@ -1,5 +1,5 @@
 <h1 align="center">My pseudonym Facelles</h1>
-<h3 align="center">I want to become a programming monster, the monster inside me is so big</h3>
+<h3 align="center">Talent? damn talent just keep trying</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJnZmsyaGN0MTl3YnJjaWI3bHRrbWxvajB6ZHd5YWF6cGs4Y3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" /> </p>
 
