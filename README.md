@@ -1,11 +1,11 @@
-<h1 align="center">My pseudonym Facelles</h1>
+<h1 align="center">I love tea <3</h1>
 <h3 align="center">Talent? fuck the talent just keep trying</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJnZmsyaGN0MTl3YnJjaWI3bHRrbWxvajB6ZHd5YWF6cGs4Y3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" /> </p>
 
 - 💀 I’m currently learning **All language**
 
-- 💬 Ask me about **how to work it?**
+- 💬 **Ask me how it works**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
