@@ -17,7 +17,7 @@
   <a href="https://github.com/facelles" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://t.me/@ilovemartysia" target="_blank">
+  <a href="https://t.me/ilovemartysia" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:soulfacelles@gmail.com" target="_blank">
