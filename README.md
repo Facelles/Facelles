@@ -1,4 +1,5 @@
 <h1 align="center">I 💙 Code</h1>
+<h3 align="center">Passion beats talent — keep building, keep learning</h3>
 <h3 align="center">React Developer 🔵 → DevOps 🚀</h3>
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJnZmsyaGN0MTl3YnJjaWI3bHRrbWxvajB6ZHd5YWF6cGs4Y3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
