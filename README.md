@@ -10,7 +10,6 @@
 
 - 🧠 I’m currently learning <strong>React</strong>, <strong>JavaScript</strong>, and backend fundamentals  
 - ⚛️ I build **dynamic frontends** and aim to grow into a solid fullstack developer  
-- 🤖 Freelance experience: **Telegram bots**, **microservices**, simple automations  
 - 🔜 Long-term goal: grow into **DevOps** & infrastructure engineering  
 - 🛠 I'm not just learning — I’m building. Step by step.
 
