@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" />
 </p>
 
-- 🧠 I’m currently learning <strong>React</strong>, <strong>JavaScript</strong>, and backend fundamentals  
+- 🧠 I’m currently learning <strong>React</strong>, <strong>TypeScript</strong>, and backend fundamentals  
 - ⚛️ I build **dynamic frontends** and aim to grow into a solid fullstack developer  
 - 🔜 Long-term goal: grow into **DevOps** & infrastructure engineering  
 - 🛠 I'm not just learning — I’m building. Step by step.
