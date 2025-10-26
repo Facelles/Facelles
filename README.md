@@ -4,10 +4,6 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJnZmsyaGN0MTl3YnJjaWI3bHRrbWxvajB6ZHd5YWF6cGs4Y3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=facelles&label=Profile%20views&color=0e75b6&style=flat" alt="facelles" />
-</p>
-
 - 🧠 I’m currently learning <strong>React</strong>, <strong>TypeScript</strong>, and backend fundamentals  
 - ⚛️ I build **dynamic frontends** and aim to grow into a solid fullstack developer  
 - 🔜 Long-term goal: grow into **DevOps** & infrastructure engineering  
