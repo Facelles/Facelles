@@ -55,108 +55,12 @@ const facelles = {
 
 </div>
 
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend  
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://axios-http.com/" target="_blank">
-    <img src="https://axios-http.com/assets/img/logo-clipped.png" alt="Axios" width="45" height="45"/>
-  </a>
-</p>
-
-### 🗄️ Backend & Databases  
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/prisma/prisma/main/logo.png" alt="Prisma" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-</p>
-
-### ⚙️ DevOps & Tools  
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="45" height="45"/>
-  </a>
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🎫 Meeting Booking System
-Modern fullstack booking application with advanced backend patterns.
-
-**Stack**: React • TypeScript • Next.js • Express.js • Prisma • PostgreSQL
-
-- ✅ Race condition-safe bookings (transactions + FOR UPDATE)
-- ✅ Soft-delete pattern with audit trail
-- ✅ JWT auth + role-based access control
-- ✅ Glass morphism UI design
-- ✅ Admin dashboard & controls
-
-[View on GitHub](https://github.com/facelles/last_task) • [Full Docs](https://github.com/facelles/last_task/blob/main/README.md)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=facelles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=facelles&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
 </div>
-
----
-
-## 🎯 Goals
-
-| Phase | Objectives |
-|-------|-----------|
-| **Now** | Master React & TypeScript, dive into backend, contribute to open source |
-| **Soon** | Build production-grade fullstack apps, learn Docker/DevOps, system design |
-| **Future** | Specialize in DevOps, lead technical projects, architect at scale |
 
 ---
 
