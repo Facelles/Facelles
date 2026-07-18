@@ -32,7 +32,7 @@ const facelles = {
 
 #### Current Focus
 - ⚛️ **Frontend**: React, TypeScript, Next.js with modern UX
-- 🖥️ **Backend**: Node.js, Express, Prisma ORM, PostgreSQL
+- 🖥️ **Backend**: Node.js, Nest.js Express, Prisma ORM, PostgreSQL
 - 📦 **Fullstack**: Building end-to-end applications  
 - 🐳 **DevOps**: Docker, containerization, CI/CD
 - 🔄 **Git Workflows**: Best practices & collaboration
